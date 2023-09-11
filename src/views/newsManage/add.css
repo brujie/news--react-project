@@ -1,0 +1,9 @@
+.hidden{
+  display: none;
+}
+.options{
+}
+.rdw-editor-wrapper{
+  border: 1px solid #eee;
+  min-height: 300px;
+}
